@@ -1,5 +1,6 @@
 <?php
 
+// function que gera o conteúdo do pdf
 function getBodyPdf() {
     $content = '
         <body>

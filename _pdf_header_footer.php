@@ -1,5 +1,6 @@
 <?php
 
+// function que gera o cabeçalho do pdf
 function getHeaderPdf(){
     $header = '
         <div class="container-header">
@@ -16,7 +17,7 @@ function getHeaderPdf(){
     return $header;
 }
 
-
+// function que gera o rodapé do pdf
 function getFooterPdf(){
     $footer = '  
         <div class="container-footer">
