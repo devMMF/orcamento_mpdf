@@ -10,10 +10,10 @@ $config = array(
     'margin_right' => 10,                   // Define a margem direita
     'margin_header' => 10,                  // Define a margem superior
     'margin_footer' => 10,                  // Define a margem inferior
-'orientation' => 'P',                       // Define a orientaÁ„o da p·gina
+    'orientation' => 'P',                       // Define a orienta√ß√£o da p√°gina
     'setAutoTopMargin' => 'stretch',        // Define a margem superior
     'setAutoBottomMargin' => 'stretch',     // Define a margem inferior
-    'autoMarginPadding' => 0,               // Define o espaÁamento entre o conte˙do e a margem
+    'autoMarginPadding' => 0,               // Define o espa√ßamento entre o conte√∫do e a margem
 );
 
 $nome_arquivo = 'orcamento_' . date('d-m-Y') . '.pdf';
