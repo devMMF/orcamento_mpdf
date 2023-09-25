@@ -1,0 +1,58 @@
+body {
+    font-family: Arial;
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+    text-align: justify;
+} 
+.container {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.container-header {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.container-footer {
+    font-size: 8px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+.table-teste {
+    width: 100%;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.th-custon {
+    background-color: #237189 !important;
+    border: 1px solid black !important;
+    color: white !important;
+    padding: 2px !important;
+}
+
+.tr-custon, .td-custon {
+    text-align: center !important;
+    border: 1px solid black !important;
+    padding: 2px !important;
+}
+
+.titulo-pdf {
+    text-align: center;
+    color: #237189;
+}
+
+
